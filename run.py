@@ -20,9 +20,8 @@ def mandelbrot(x, y, max_iterations):
 
 centre = [-0.768955894, 0.1]
 # zoom = 0.000000000000005
-zoom = 0.0000000000005
-# zoom = 4.0
-resolution = [2000, 1000]
+zoom = 4.0
+resolution = [100, 100]
 max_iterations = 1000
 
 colours = ["#301D7D", "#6A0487", "#A8186E", "#C91853", "#F2541B", "#ffbf15"]
